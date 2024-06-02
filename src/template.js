@@ -29,7 +29,7 @@ export default class Template {
 	/**
 	 * Creates an <li> HTML string and returns it for placement in your app.
 	 *
-	 * NOTE: In real life you should be using a templating engine such as Mustache
+	 * NOTE: In real life you should be using a templating engine such as Mustache testing 
 	 * or Handlebars, however, this is a vanilla JS example.
 	 *
 	 * @param {object} data The object containing keys you want to find in the
